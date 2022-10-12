@@ -1,10 +1,10 @@
 #!/bin/bash
 
-cp bashrc ~/.bashrc
+#cp bashrc ~/.bashrc
 cp vimrc ~/.vimrc
 
-mkdir -p ~/.vim/color
-cp louiehu.vim ~/.vim/color/
+mkdir -p ~/.vim/colors
+cp louiehu.vim ~/.vim/colors/
 
 echo "...finsh cp"
 
